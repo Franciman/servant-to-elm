@@ -1,6 +1,6 @@
-resolver: lts-14.0
+resolver: lts-17.0
 packages:
 - .
 extra-deps:
 - elm-syntax-0.3.0.0
-- haskell-to-elm-0.3.0.0
+- haskell-to-elm-0.3.2.0
